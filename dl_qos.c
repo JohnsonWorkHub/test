@@ -1,1 +1,2 @@
-gbr before stash
+g-b
+r before stash
